@@ -1,0 +1,14 @@
+
+ <div>    
+    <h4>Las películas del top 5</h4>
+ </div>
+ <div class="top5" > 
+    <img class="top" [src]="peli.image" alt="" *ngFor="let peli of top5">
+ </div>
+ 
+ <app-films [accionFilms]="accionFilms"></app-films>
+ <app-films [fantasticFilms]="fantasticFilms"></app-films>
+   
+
+
+

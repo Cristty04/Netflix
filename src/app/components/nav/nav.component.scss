@@ -1,0 +1,53 @@
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+  }
+.logo {
+    width: 120px;
+    margin: 50px;
+    margin-right: 10px;
+    background-color: grey;
+}
+
+.live {
+    color:white;
+    margin-top: 90px;
+    
+  
+}
+
+nav {
+display:flex;
+justify-content: space-between;
+}
+
+div {
+ display:flex;
+ justify-content: flex-start;
+}
+
+ul{
+    display:inline-flex;
+    padding-inline-end: 10px;
+    }
+
+li{
+    margin: 20px;
+    }
+
+.nav__ul--icons > li{
+    width: 10%;
+    display: flex;
+    align-items: center;
+    color: black;
+   
+  }
+
+.lupa {
+
+padding: 0%;
+    
+}

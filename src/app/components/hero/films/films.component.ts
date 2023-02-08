@@ -11,6 +11,6 @@ export class FilmsComponent {
 
 @Input() accionFilms:PeliculaInterface[] = []
 @Input() fantasticFilms:PeliculaInterface[] = []
-//ngOnInit(): void {console.log(this.top5)}
+//ngOnInit(): void {console.log(this.accioinFilms)}
 
 }

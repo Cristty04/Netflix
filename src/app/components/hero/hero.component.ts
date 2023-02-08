@@ -24,6 +24,7 @@ export class HeroComponent {
     ];
 
     this.accionFilms = [
+      
       { image: './assets/CienciaFiccion/A Ciegas.jpg' },
       { image: './assets/CienciaFiccion/Guerra Mundial Z.jpg' },
       { image: './assets/CienciaFiccion/Insurgente.jpg' },
@@ -34,12 +35,12 @@ export class HeroComponent {
     ];
       
     this.fantasticFilms = [
-      { image: './assets/Fantastics/300.jpg' },
-      { image: './assets/Fantastics/Dioses de Egipto.jpg' },
-      { image: './assets/Fantastics/Furia de Titanes.jpg' },
-      { image: './assets/Fantastics/Gladiator.jpg' },
-      { image: './assets/Fantastics/Pompeii.jpg' },
-      { image: './assets/Fantastics/Troya.jpg' },
+      { image: './assets/Epicas/300.jpg' },
+      { image: './assets/Epicas/Dioses de Egipto.jpg' },
+      { image: './assets/Epicas/Furia de Titanes.jpg' },
+      { image: './assets/Epicas/Gladiator.jpg' },
+      { image: './assets/Epicas/Pompeii.jpg' },
+      { image: './assets/Epicas/Troya.jpg' },
      
     ];
   }

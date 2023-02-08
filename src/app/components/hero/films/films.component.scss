@@ -1,21 +1,37 @@
-.container {
-    color: white;
-    margin-left: 50px;
-    display:flex;
-    justify-content: center;
-    
-  
-
+*{
+margin:0px;
 }
+.one {
 
-.accion{
-    width: 20%;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    height: 170px;
+    border: 1px black;
+}
+     
    
-    
+   
+   .accion{
+     padding: 2px;
+     
    }
 
-.fantastic{
-    width: 20%;
-   
+   .two {
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    height: 170px;
+    border: 1px black;
     
+     
+   }
+
+   .fantastic {
+    
+     padding: 2px;  
    }
